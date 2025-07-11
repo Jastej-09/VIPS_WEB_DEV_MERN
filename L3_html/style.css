@@ -1,0 +1,38 @@
+h2{
+    color: gray;
+    background-color: darkturquoise;
+    font-family:sans-serif;
+}
+#first{
+    color: blue;
+}
+.second{
+    color: blueviolet;
+}
+ p {
+    background-color: antiquewhite;
+    font-weight: 900; 
+    color: darkviolet;
+    font-size: 20px;
+    text-align: center;
+}
+.box{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.first{
+    width: 150px;
+    height: 100%;
+    background-color: aqua;
+
+}
+.second2{
+    width: 150px;
+    height: 100%;
+    background-color: red;    
+}

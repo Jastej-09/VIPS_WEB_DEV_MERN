@@ -1,0 +1,31 @@
+.box{
+    background-color: white;
+height: 600px;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items:center  ;
+    justify-content: center;
+    border-radius: 20px;
+    border:2px solid black;
+}
+.tummy{
+    background-color: whitesmoke;
+    height: 100%;
+    width: 100%;
+    align-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login{
+    border-color: seagreen;
+    background-color: seagreen;
+    border-radius: 15px;
+}
+.zz{
+    color: teal;
+}
+.cc{
+    color: teal;
+}
