@@ -1,0 +1,35 @@
+.bg_img{
+    background-image: url(https://images.unsplash.com/photo-1623087732959-f407d6957012?q=80&w=681&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    height: 500px;
+    width: 500px;
+    border: 2px black solid;
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+.parent{
+    width: 250px;
+    height: 200px;
+    background-color:#B2AC88 ;
+    border: 2px black solid;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    overflow: scroll;
+}
+.childone{
+    height: 100%;
+    width: 100px;
+    background-color: magenta;
+    border: 2px black solid;
+
+
+}
+.childtwo{
+    height: 100%;
+    width: 100px;
+    background-color: burlywood;
+    border: 2px black solid;
+    
+}
+/* learn hower */
